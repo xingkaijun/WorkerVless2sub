@@ -27,7 +27,7 @@ let addressesnotlsapi = [
 	'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 ];
 
-let DLS = 4;//速度下限
+let DLS = 2;//速度下限
 let addressescsv = [
 	'https://cf-workers-text2kv-ek6.pages.dev/result.csv?token=kjxing', //iptest测速结果文件。
 ];
